@@ -152,14 +152,24 @@ body {
   width: 100%;
   padding: 8px 10px;
   font-size: 15px;
-  border: 0px;
+  border: 1px;
   background: #fec107;
   color: #fff;
   cursor: pointer;
   border-radius: 3px;
   outline: none;
 }
+.page3{
+  text-align: center;
+  margin-top: 30%;
+  color: #062704;
+  text-shadow: 3px 2px rgb(208, 205, 185);
+  font-family: georgia;
 
+}
+.sau{
+background-color: rgb(53, 160, 160);
+}
 .wrapper .form .inputfield .btn:hover {
   background: #bebc30;
 }
